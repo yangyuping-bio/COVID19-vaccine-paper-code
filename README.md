@@ -4,22 +4,22 @@ This repository contains the full analysis code used in our study on immune resp
 
 ## 📁 Modules Overview
 
-1. **1_scRNA_analysis/**  
+1. **1_scRNA_analysis**  
    Single-cell RNA-seq data preprocessing, clustering, annotation, and downstream analysis.
 
-2. **2_antibody_analysis/**  
+2. **2_antibody_analysis**  
    Antibody titer dynamics analysis and visualization across multiple time points.
 
-3. **3_metabolomics_analysis/**  
+3. **3_metabolomics_analysis**  
    Preprocessing and statistical analysis of metabolomics data across vaccination stages.
 
-4. **4_TCR_analysis/**  
+4. **4_TCR_analysis**  
    T-cell receptor (TCR) repertoire profiling and clonal expansion analysis.
 
-5. **5_BCR_analysis/**  
+5. **5_BCR_analysis**  
    B-cell receptor (BCR) repertoire profiling, including VDJ usage and clonal tracking.
 
-6. **6_vaccine_vs_infection/**  
+6. **6_vaccine_vs_infection**  
    Comparative analysis between vaccine-induced responses and natural infection.
 
 ## 🧪 Data
